@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Class-Path: jackson-databind-2.13.0.jar jackson-annotations-2.13.0.jar j
+ ackson-core-2.13.0.jar
+Main-Class: com.bajajhealth.Main
+Created-By: Maven Integration for Eclipse
+
